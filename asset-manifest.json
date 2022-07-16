@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a32041a1.css",
-    "main.js": "/static/js/main.85e20e20.js",
+    "main.js": "/static/js/main.99ba6ae6.js",
     "static/media/beach_coast_crash_foam_hurricane_nature_nobody_601215.jpg": "/static/media/beach_coast_crash_foam_hurricane_nature_nobody_601215.c4c18486f532eb891202.jpg",
     "index.html": "/index.html",
     "main.a32041a1.css.map": "/static/css/main.a32041a1.css.map",
-    "main.85e20e20.js.map": "/static/js/main.85e20e20.js.map"
+    "main.99ba6ae6.js.map": "/static/js/main.99ba6ae6.js.map"
   },
   "entrypoints": [
     "static/css/main.a32041a1.css",
-    "static/js/main.85e20e20.js"
+    "static/js/main.99ba6ae6.js"
   ]
 }
