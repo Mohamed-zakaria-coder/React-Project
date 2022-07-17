@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Travel-Project/static/css/main.a93ebbb0.css",
-    "main.js": "/Travel-Project/static/js/main.35c6dbce.js",
-    "index.html": "/Travel-Project/index.html",
-    "main.a93ebbb0.css.map": "/Travel-Project/static/css/main.a93ebbb0.css.map",
-    "main.35c6dbce.js.map": "/Travel-Project/static/js/main.35c6dbce.js.map"
+    "main.css": "/React-Project/static/css/main.c513abfe.css",
+    "main.js": "/React-Project/static/js/main.da1e6ffb.js",
+    "index.html": "/React-Project/index.html",
+    "main.c513abfe.css.map": "/React-Project/static/css/main.c513abfe.css.map",
+    "main.da1e6ffb.js.map": "/React-Project/static/js/main.da1e6ffb.js.map"
   },
   "entrypoints": [
-    "static/css/main.a93ebbb0.css",
-    "static/js/main.35c6dbce.js"
+    "static/css/main.c513abfe.css",
+    "static/js/main.da1e6ffb.js"
   ]
 }
