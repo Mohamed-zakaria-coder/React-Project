@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/React-project/static/css/main.a32041a1.css",
-    "main.js": "/React-project/static/js/main.0b21a422.js",
-    "static/media/beach_coast_crash_foam_hurricane_nature_nobody_601215.jpg": "/React-project/static/media/beach_coast_crash_foam_hurricane_nature_nobody_601215.c4c18486f532eb891202.jpg",
-    "index.html": "/React-project/index.html",
-    "main.a32041a1.css.map": "/React-project/static/css/main.a32041a1.css.map",
-    "main.0b21a422.js.map": "/React-project/static/js/main.0b21a422.js.map"
+    "main.css": "/Travel-Project/static/css/main.a93ebbb0.css",
+    "main.js": "/Travel-Project/static/js/main.35c6dbce.js",
+    "index.html": "/Travel-Project/index.html",
+    "main.a93ebbb0.css.map": "/Travel-Project/static/css/main.a93ebbb0.css.map",
+    "main.35c6dbce.js.map": "/Travel-Project/static/js/main.35c6dbce.js.map"
   },
   "entrypoints": [
-    "static/css/main.a32041a1.css",
-    "static/js/main.0b21a422.js"
+    "static/css/main.a93ebbb0.css",
+    "static/js/main.35c6dbce.js"
   ]
 }
